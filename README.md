@@ -21,6 +21,12 @@ The project creates a web player for a podcast list.
 - TypeScript
 - Next.js
 - Sass
+- Api Context
+- SSG pages
+- Adding and routing dynamic pages into a static project
+- Consuming an api using json server
+- html ref
+
 
 ## Skills/Concepts Learned
 
