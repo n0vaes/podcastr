@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-Podcastr Next.JS Application (Under development)
+Podcastr Next.JS Application
 </h1>
 
 <hr />
@@ -45,4 +45,4 @@ yarn server (on a second terminal)
 
 ## Project
 
-Future link for the project will be added.
+Acess https://podcastr-n0vaes.vercel.app/ and check it out!
