@@ -9,7 +9,7 @@ Podcastr Next.JS Application
 
 
 ## About Podcastr!
-Podcastr is a study project developed during Rocketseat's NLW#5.
+<h1><a href="http://podcastr-n0vaes.vercel.app/">Podcastr</a></h1> is a study project developed during Rocketseat's NLW#5.
 
 The project creates a web player for a podcast list.
 
