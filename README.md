@@ -1,7 +1,7 @@
-<h1 align="center">
 <br>
-Podcastr Next.JS Application
-</h1>
+<h1><a href="http://podcastr-n0vaes.vercel.app/">Podcastr Next.JS Application</a></h1>
+
+
 
 <hr />
 
@@ -9,7 +9,7 @@ Podcastr Next.JS Application
 
 
 ## About Podcastr!
-<h1><a href="http://podcastr-n0vaes.vercel.app/">Podcastr</a></h1> is a study project developed during Rocketseat's NLW#5.
+Podcastr is a study project developed during Rocketseat's NLW#5.
 
 The project creates a web player for a podcast list.
 
