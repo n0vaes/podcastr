@@ -1,5 +1,5 @@
 <br>
-<h1><a href="http://podcastr-n0vaes.vercel.app/">Podcastr Next.JS Application</a></h1>
+<h1><a href="http://podcastr-n0vaes.vercel.app/" target="_blank">Podcastr Next.JS Application</a></h1>
 
 
 
