@@ -8,7 +8,7 @@
 > Study project to learn React/Typescript/Next.js
 
 
-## About Podcastr!
+## ℹ️ About Podcastr!
 Podcastr is a study project developed during Rocketseat's NLW#5.
 
 The project creates a web player for a podcast list.
@@ -16,7 +16,7 @@ The project creates a web player for a podcast list.
 
 <br /> <br />
 
-## Features
+## :white_check_mark: Features
 
 - TypeScript
 - Next.js
@@ -28,13 +28,13 @@ The project creates a web player for a podcast list.
 - html ref
 
 
-## Skills/Concepts Learned
+## 🛠 Skills/Concepts Learned
 
 - How to use states on different componets by using Context API
 - How Next.js performs delivering a ready front end page that can be used by search crawlers
 - The use of a SSG page to decrease the back-end load and increase performance and user experience.
 
-## Getting started
+## 🚀 Getting started
 
 Clone the repository
 
@@ -43,6 +43,6 @@ yarn start (on one terminal)
 yarn server (on a second terminal)
 ```
 
-## Project
+## 🎲 Project
 
 Acess https://podcastr-n0vaes.vercel.app/ and check it out!
